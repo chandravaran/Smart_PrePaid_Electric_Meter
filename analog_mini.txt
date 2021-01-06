@@ -1,5 +1,0 @@
-sir these are the instructions if you want to simulate 
-1) first you need to complie the arduino code in arduino ide and then upload the hex files into the arduino they
-have been labeled as bottom and top for easy understanding.
-2)the gsm modules hex file also has to be uploaded onto it.
-3)the same thing has to be done for both circuits.
